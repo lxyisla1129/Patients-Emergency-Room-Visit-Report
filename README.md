@@ -61,3 +61,5 @@ This analysis provides valuable insights into the factors affecting emergency ro
 
 1. Clone this repository to your local machine.
 2. Open the Power BI file (`Patients Emergency Room Visit Report.pbix`) to explore the interactive dashboards and visualizations.
+
+Followd the guidance of https://www.youtube.com/watch?v=U5ZKjZsZX64. 
